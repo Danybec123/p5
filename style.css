@@ -1,0 +1,4 @@
+body{background:linear-gradient(rgb(170, 254, 2),rgb(18, 255, 204),rgb(174, 0, 255),rgb(255, 13, 134));
+font-family:cursive;}
+button{color: rgb(0, 225, 255); background-color: black; font-family: cursive; border-radius: 100%;}
+canvas{background-color: red;}
